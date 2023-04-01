@@ -1,1 +1,6 @@
-Description
+Description:
+
+script v3 is final code for agent-based model of co-culture MRSA and Pseudomonas aeruginosa, other scripts are test versions.
+
+Result: after simulation, bacteria in round 13th are stability
+
