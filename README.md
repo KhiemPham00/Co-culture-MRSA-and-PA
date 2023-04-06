@@ -8,6 +8,8 @@ Workflow:
 
 
 Referance:
+1. Zimmermann, J., Kaleta, C. & Waschina, S. gapseq: informed prediction of bacterial metabolic pathways and reconstruction of accurate metabolic models. Genome Biol 22, 81 (2021). https://doi.org/10.1186/s13059-021-02295-1
+2. Bauer E, Zimmermann J, Baldini F, Thiele I, Kaleta C (2017) BacArena: Individual-based metabolic modeling of heterogeneous microbes in complex communities. PLOS Computational Biology 13(5): e1005544. https://doi.org/10.1371/journal.pcbi.1005544
 
 
 
