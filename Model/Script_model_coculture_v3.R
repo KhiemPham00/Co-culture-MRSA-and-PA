@@ -26,7 +26,7 @@ arena_subs <- fread("/TSBmed.csv") #dỉrectory
 arena_subs[, ex.rxn := paste0("EX_", compounds, "_e0")]
 arena <- addSubs(arena, smax = arena_subs$maxFlux, 
                  mediac = arena_subs$ex.rxn, unit = "mM", addAnyway = T)
-arena <- createGradient(arena,smax=75,mediac=c("EX_cpd00007_e0"),
+arena <- createGradient(arena,smax=50,mediac=c("EX_cpd00007_e0"),
                     position='top',steep=0.5, add=TRUE)
 chemotaxis(bacpa,arena,1, "EX_cpd00007_e0", arena@occupyM)
 
